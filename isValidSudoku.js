@@ -1,4 +1,4 @@
-var isValidSudoku = function(board) {
+function IsValidSudoku(board) {
   var i;
   var j;
   var con;
@@ -57,4 +57,4 @@ var isValidSudoku = function(board) {
   return rst;
 };
 
-export default isValidSudoku;
+module.exports = IsValidSudoku;
