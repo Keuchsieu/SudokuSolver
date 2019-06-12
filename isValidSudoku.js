@@ -1,3 +1,5 @@
+// check if the whole board is a valid sudoku board
+// note: a valid sudoku board is not neccessary a solvable board.
 function IsValidSudoku(board) {
   var i;
   var j;
