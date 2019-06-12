@@ -3,7 +3,7 @@ Solves a Sudoku game
 
 Developed in NodeJS
 
-Some head-ups here:
+Some heads-up here:
 
 1. A valid sudoku board might be unsolvable. The result solution will be [] (an empty array)
 
